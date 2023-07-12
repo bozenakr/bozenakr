@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m Božena
-- 🌱 I’m currently learning Html, Css, Javascript
+- 🌱 I’m currently learning PHP, Laravel, API, Html, CSS, SCSS, JavaScript, Jquery
 
 
 
